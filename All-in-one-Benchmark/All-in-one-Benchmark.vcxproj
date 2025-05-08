@@ -130,7 +130,9 @@
     <ClCompile Include="All-in-one-Benchmark.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="ADDIntrin.h" />
     <ClInclude Include="Benchmark.h" />
+    <ClInclude Include="FMAIntrin.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
