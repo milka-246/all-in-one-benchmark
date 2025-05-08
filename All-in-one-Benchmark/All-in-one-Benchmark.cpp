@@ -2,9 +2,12 @@
 //
 
 #include <iostream>
+#include"ScalarADD.h"
 
 int main()
 {
+    ScalarADD b;
+    b.run();
     std::cout << "Hello World!\n";
 }
 

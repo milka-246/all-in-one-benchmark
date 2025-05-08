@@ -1,0 +1,594 @@
+Global optimization report for : main
+=================================================================
+
+Global optimization report for : ??0ScalarADD@@QEAA@XZ
+=================================================================
+
+Global optimization report for : ?run@ScalarADD@@UEAAXXZ
+=================================================================
+
+Global optimization report for : ??$?6U?$char_traits@D@std@@@std@@YAAEAV?$basic_ostream@DU?$char_traits@D@std@@@0@AEAV10@PEBD@Z
+
+LOOP BEGIN at C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.39.33519\include\ostream (781, 0)
+LOOP END
+
+LOOP BEGIN at C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.39.33519\include\ostream (794, 0)
+LOOP END
+=================================================================
+
+Global optimization report for : ??1ScalarADD@@UEAA@XZ
+=================================================================
+
+Global optimization report for : ??0Benchmark@@QEAA@XZ
+=================================================================
+
+Global optimization report for : ?name@ScalarADD@@UEBA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ
+=================================================================
+
+Global optimization report for : ??_GScalarADD@@UEAAPEAXI@Z
+=================================================================
+
+Global optimization report for : ??_GBenchmark@@UEAAPEAXI@Z
+=================================================================
+
+Global optimization report for : ??0?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QEAA@QEBD@Z
+=================================================================
+
+Global optimization report for : ??$?0$$V@?$_Compressed_pair@V?$allocator@D@std@@V?$_String_val@U?$_Simple_types@D@std@@@2@$00@std@@QEAA@U_Zero_then_variadic_args_t@1@@Z
+=================================================================
+
+Global optimization report for : ??$_Construct@$00PEBD@?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEAAXQEBD_K@Z
+=================================================================
+
+Global optimization report for : ??$_Convert_size@_K_K@std@@YA_K_K@Z
+=================================================================
+
+Global optimization report for : ?length@?$_Narrow_char_traits@DH@std@@SA_KQEBD@Z
+=================================================================
+
+Global optimization report for : ??1?$_Compressed_pair@V?$allocator@D@std@@V?$_String_val@U?$_Simple_types@D@std@@@2@$00@std@@QEAA@XZ
+=================================================================
+
+Global optimization report for : ??0?$allocator@D@std@@QEAA@XZ
+=================================================================
+
+Global optimization report for : ??0?$_String_val@U?$_Simple_types@D@std@@@std@@QEAA@XZ
+=================================================================
+
+Global optimization report for : ??0_Container_base12@std@@QEAA@XZ
+=================================================================
+
+Global optimization report for : ??0_Bxty@?$_String_val@U?$_Simple_types@D@std@@@std@@QEAA@XZ
+=================================================================
+
+Global optimization report for : ?max_size@?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QEBA_KXZ
+=================================================================
+
+Global optimization report for : ?_Xlen_string@std@@YAXXZ
+=================================================================
+
+Global optimization report for : ?_Getal@?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEAAAEAV?$allocator@D@2@XZ
+=================================================================
+
+Global optimization report for : ??$?0D@?$allocator@U_Container_proxy@std@@@std@@QEAA@AEBV?$allocator@D@1@@Z
+=================================================================
+
+Global optimization report for : ??0?$_Container_proxy_ptr12@V?$allocator@U_Container_proxy@std@@@std@@@std@@QEAA@AEAV?$allocator@U_Container_proxy@std@@@1@AEAU_Container_base12@1@@Z
+=================================================================
+
+Global optimization report for : ?copy@?$_Char_traits@DH@std@@SAPEADQEADQEBD_K@Z
+=================================================================
+
+Global optimization report for : ?assign@?$_Narrow_char_traits@DH@std@@SAXAEADAEBD@Z
+=================================================================
+
+Global optimization report for : ?_Release@_Basic_container_proxy_ptr12@std@@QEAAXXZ
+=================================================================
+
+Global optimization report for : ?_Calculate_growth@?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@CA_K_K00@Z
+=================================================================
+
+Global optimization report for : ??$_Allocate_for_capacity@$0A@@?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@CAPEADAEAV?$allocator@D@1@AEA_K@Z
+=================================================================
+
+Global optimization report for : ??$_Construct_in_place@PEADAEBQEAD@std@@YAXAEAPEADAEBQEAD@Z
+=================================================================
+
+Global optimization report for : ??$_Unfancy@D@std@@YAPEADPEAD@Z
+=================================================================
+
+Global optimization report for : ??1?$_Container_proxy_ptr12@V?$allocator@U_Container_proxy@std@@@std@@@std@@QEAA@XZ
+=================================================================
+
+Global optimization report for : ?max_size@?$_Default_allocator_traits@V?$allocator@D@std@@@std@@SA_KAEBV?$allocator@D@2@@Z
+=================================================================
+
+Global optimization report for : ?_Getal@?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBAAEBV?$allocator@D@2@XZ
+=================================================================
+
+Global optimization report for : ??$max@_K@std@@YAAEB_KAEB_K0@Z
+=================================================================
+
+Global optimization report for : ??$min@_K@std@@YAAEB_KAEB_K0@Z
+=================================================================
+
+Global optimization report for : ?max@?$numeric_limits@_J@std@@SA_JXZ
+=================================================================
+
+Global optimization report for : ?_Get_first@?$_Compressed_pair@V?$allocator@D@std@@V?$_String_val@U?$_Simple_types@D@std@@@2@$00@std@@QEBAAEBV?$allocator@D@2@XZ
+=================================================================
+
+Global optimization report for : ?_Get_first@?$_Compressed_pair@V?$allocator@D@std@@V?$_String_val@U?$_Simple_types@D@std@@@2@$00@std@@QEAAAEAV?$allocator@D@2@XZ
+=================================================================
+
+Global optimization report for : ??0_Basic_container_proxy_ptr12@std@@IEAA@XZ
+=================================================================
+
+Global optimization report for : ??$_Unfancy@U_Container_proxy@std@@@std@@YAPEAU_Container_proxy@0@PEAU10@@Z
+=================================================================
+
+Global optimization report for : ?allocate@?$allocator@U_Container_proxy@std@@@std@@QEAAPEAU_Container_proxy@2@_K@Z
+=================================================================
+
+Global optimization report for : ??$_Construct_in_place@U_Container_proxy@std@@PEAU_Container_base12@2@@std@@YAXAEAU_Container_proxy@0@$$QEAPEAU_Container_base12@0@@Z
+=================================================================
+
+Global optimization report for : ??$_Allocate@$0BA@U_Default_allocate_traits@std@@$0A@@std@@YAPEAX_K@Z
+=================================================================
+
+Global optimization report for : ??$_Get_size_of_n@$0BA@@std@@YA_K_K@Z
+=================================================================
+
+Global optimization report for : ??$_Allocate_manually_vector_aligned@U_Default_allocate_traits@std@@@std@@YAPEAX_K@Z
+=================================================================
+
+Global optimization report for : ?_Allocate@_Default_allocate_traits@std@@SAPEAX_K@Z
+=================================================================
+
+Global optimization report for : ?_Throw_bad_array_new_length@std@@YAXXZ
+=================================================================
+
+Global optimization report for : ??0bad_array_new_length@std@@QEAA@XZ
+=================================================================
+
+Global optimization report for : ??0bad_array_new_length@std@@QEAA@AEBV01@@Z
+=================================================================
+
+Global optimization report for : ??0bad_alloc@std@@QEAA@AEBV01@@Z
+=================================================================
+
+Global optimization report for : ??0exception@std@@QEAA@AEBV01@@Z
+=================================================================
+
+Global optimization report for : ??1bad_array_new_length@std@@UEAA@XZ
+=================================================================
+
+Global optimization report for : ??0bad_alloc@std@@AEAA@QEBD@Z
+=================================================================
+
+Global optimization report for : ??_Gbad_array_new_length@std@@UEAAPEAXI@Z
+=================================================================
+
+Global optimization report for : ?what@exception@std@@UEBAPEBDXZ
+=================================================================
+
+Global optimization report for : ??0exception@std@@QEAA@QEBDH@Z
+=================================================================
+
+Global optimization report for : ??_Gbad_alloc@std@@UEAAPEAXI@Z
+=================================================================
+
+Global optimization report for : ??_Gexception@std@@UEAAPEAXI@Z
+=================================================================
+
+Global optimization report for : ??1exception@std@@UEAA@XZ
+=================================================================
+
+Global optimization report for : ??1bad_alloc@std@@UEAA@XZ
+=================================================================
+
+Global optimization report for : ??0_Container_proxy@std@@QEAA@PEAU_Container_base12@1@@Z
+=================================================================
+
+Global optimization report for : ??$_Allocate_at_least_helper@V?$allocator@D@std@@@std@@YAPEADAEAV?$allocator@D@0@AEA_K@Z
+=================================================================
+
+Global optimization report for : ?allocate@?$allocator@D@std@@QEAAPEAD_K@Z
+=================================================================
+
+Global optimization report for : ??$_Get_size_of_n@$00@std@@YA_K_K@Z
+=================================================================
+
+Global optimization report for : ??$_Delete_plain_internal@V?$allocator@U_Container_proxy@std@@@std@@@std@@YAXAEAV?$allocator@U_Container_proxy@std@@@0@QEAU_Container_proxy@0@@Z
+=================================================================
+
+Global optimization report for : ??$_Deallocate_plain@V?$allocator@U_Container_proxy@std@@@std@@@std@@YAXAEAV?$allocator@U_Container_proxy@std@@@0@QEAU_Container_proxy@0@@Z
+=================================================================
+
+Global optimization report for : ?deallocate@?$_Default_allocator_traits@V?$allocator@U_Container_proxy@std@@@std@@@std@@SAXAEAV?$allocator@U_Container_proxy@std@@@2@QEAU_Container_proxy@2@_K@Z
+=================================================================
+
+Global optimization report for : ??$_Deallocate@$0BA@$0A@@std@@YAXPEAX_K@Z
+=================================================================
+
+Global optimization report for : ?_Adjust_manually_vector_aligned@std@@YAXAEAPEAXAEA_K@Z
+=================================================================
+
+Global optimization report for : ??1?$_String_val@U?$_Simple_types@D@std@@@std@@QEAA@XZ
+=================================================================
+
+Global optimization report for : ??1_Bxty@?$_String_val@U?$_Simple_types@D@std@@@std@@QEAA@XZ
+=================================================================
+
+Global optimization report for : ?run@ScalarADD@@UEAAXXZ.omp_outlined_debug__
+
+LOOP BEGIN at .\ScalarADD.h (32, 0)
+LOOP END
+=================================================================
+
+Global optimization report for : ?run@ScalarADD@@UEAAXXZ.omp_outlined
+=================================================================
+
+Global optimization report for : ??$endl@DU?$char_traits@D@std@@@std@@YAAEAV?$basic_ostream@DU?$char_traits@D@std@@@0@AEAV10@@Z
+=================================================================
+
+Global optimization report for : ??0sentry@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAA@AEAV12@@Z
+=================================================================
+
+Global optimization report for : ??Bsentry@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEBA_NXZ
+=================================================================
+
+Global optimization report for : ?eq_int_type@?$_Narrow_char_traits@DH@std@@SA_NHH@Z
+=================================================================
+
+Global optimization report for : ?eof@?$_Narrow_char_traits@DH@std@@SAHXZ
+=================================================================
+
+Global optimization report for : ??1sentry@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAA@XZ
+=================================================================
+
+Global optimization report for : ??0_Sentry_base@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAA@AEAV12@@Z
+=================================================================
+
+Global optimization report for : ??1_Sentry_base@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAA@XZ
+=================================================================
+
+Global optimization report for : ??1Benchmark@@UEAA@XZ
+=================================================================
+
+---- Begin Inlining Report ----
+Option Values:
+  inline-threshold: 225
+  inlinehint-threshold: 325
+  inlinecold-threshold: 45
+  inlineoptsize-threshold: 15
+
+COMPILE FUNC: main
+   -> ??0ScalarADD@@QEAA@XZ All-in-one-Benchmark.cpp (9,0)
+   -> ?run@ScalarADD@@UEAAXXZ All-in-one-Benchmark.cpp (10,0)
+   -> ??$?6U?$char_traits@D@std@@@std@@YAAEAV?$basic_ostream@DU?$char_traits@D@std@@@0@AEAV10@PEBD@Z All-in-one-Benchmark.cpp (11,0)
+   -> ??1ScalarADD@@UEAA@XZ All-in-one-Benchmark.cpp (12,0)
+   -> ??1ScalarADD@@UEAA@XZ All-in-one-Benchmark.cpp (12,0)
+
+COMPILE FUNC: ??0ScalarADD@@QEAA@XZ
+   -> ??0Benchmark@@QEAA@XZ All-in-one-Benchmark.cpp (8,0)
+
+COMPILE FUNC: ?run@ScalarADD@@UEAAXXZ
+   -> EXTERN: omp_get_wtime All-in-one-Benchmark.cpp (30,0)
+   -> EXTERN: __kmpc_fork_call All-in-one-Benchmark.cpp (32,0)
+   -> EXTERN: omp_get_wtime All-in-one-Benchmark.cpp (47,0)
+   -> ??$?6U?$char_traits@D@std@@@std@@YAAEAV?$basic_ostream@DU?$char_traits@D@std@@@0@AEAV10@PEBD@Z All-in-one-Benchmark.cpp (51,0)
+   -> EXTERN: ??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@N@Z All-in-one-Benchmark.cpp (51,0)
+   -> EXTERN: ??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@P6AAEAV01@AEAV01@@Z@Z All-in-one-Benchmark.cpp (51,0)
+   -> ??$?6U?$char_traits@D@std@@@std@@YAAEAV?$basic_ostream@DU?$char_traits@D@std@@@0@AEAV10@PEBD@Z All-in-one-Benchmark.cpp (56,0)
+   -> EXTERN: ??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@N@Z All-in-one-Benchmark.cpp (56,0)
+   -> ??$?6U?$char_traits@D@std@@@std@@YAAEAV?$basic_ostream@DU?$char_traits@D@std@@@0@AEAV10@PEBD@Z All-in-one-Benchmark.cpp (56,0)
+   -> EXTERN: ??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@P6AAEAV01@AEAV01@@Z@Z All-in-one-Benchmark.cpp (56,0)
+   -> ??$?6U?$char_traits@D@std@@@std@@YAAEAV?$basic_ostream@DU?$char_traits@D@std@@@0@AEAV10@PEBD@Z All-in-one-Benchmark.cpp (57,0)
+   -> EXTERN: ??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@N@Z All-in-one-Benchmark.cpp (57,0)
+   -> EXTERN: ??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@P6AAEAV01@AEAV01@@Z@Z All-in-one-Benchmark.cpp (57,0)
+
+COMPILE FUNC: ??$?6U?$char_traits@D@std@@@std@@YAAEAV?$basic_ostream@DU?$char_traits@D@std@@@0@AEAV10@PEBD@Z
+   -> ?length@?$_Narrow_char_traits@DH@std@@SA_KQEBD@Z All-in-one-Benchmark.cpp (772,0)
+   -> EXTERN: ?width@ios_base@std@@QEBA_JXZ All-in-one-Benchmark.cpp (773,0)
+   -> EXTERN: ?width@ios_base@std@@QEBA_JXZ All-in-one-Benchmark.cpp (773,0)
+   -> EXTERN: ?width@ios_base@std@@QEBA_JXZ All-in-one-Benchmark.cpp (773,0)
+   -> ??0sentry@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAA@AEAV12@@Z All-in-one-Benchmark.cpp (774,0)
+   -> ??Bsentry@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEBA_NXZ All-in-one-Benchmark.cpp (776,0)
+   -> EXTERN: ?flags@ios_base@std@@QEBAHXZ All-in-one-Benchmark.cpp (780,0)
+   -> EXTERN: ?rdbuf@?$basic_ios@DU?$char_traits@D@std@@@std@@QEBAPEAV?$basic_streambuf@DU?$char_traits@D@std@@@2@XZ All-in-one-Benchmark.cpp (782,0)
+   -> EXTERN: ?fill@?$basic_ios@DU?$char_traits@D@std@@@std@@QEBADXZ All-in-one-Benchmark.cpp (782,0)
+   -> EXTERN: ?sputc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QEAAHD@Z All-in-one-Benchmark.cpp (782,0)
+   -> ?eof@?$_Narrow_char_traits@DH@std@@SAHXZ All-in-one-Benchmark.cpp (782,0)
+   -> ?eq_int_type@?$_Narrow_char_traits@DH@std@@SA_NHH@Z All-in-one-Benchmark.cpp (782,0)
+   -> EXTERN: ?rdbuf@?$basic_ios@DU?$char_traits@D@std@@@std@@QEBAPEAV?$basic_streambuf@DU?$char_traits@D@std@@@2@XZ All-in-one-Benchmark.cpp (789,0)
+   -> EXTERN: ?sputn@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QEAA_JPEBD_J@Z All-in-one-Benchmark.cpp (789,0)
+   -> EXTERN: ?rdbuf@?$basic_ios@DU?$char_traits@D@std@@@std@@QEBAPEAV?$basic_streambuf@DU?$char_traits@D@std@@@2@XZ All-in-one-Benchmark.cpp (795,0)
+   -> EXTERN: ?fill@?$basic_ios@DU?$char_traits@D@std@@@std@@QEBADXZ All-in-one-Benchmark.cpp (795,0)
+   -> EXTERN: ?sputc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QEAAHD@Z All-in-one-Benchmark.cpp (795,0)
+   -> EXTERN: ?setstate@?$basic_ios@DU?$char_traits@D@std@@@std@@QEAAXH_N@Z All-in-one-Benchmark.cpp (803,0)
+   -> ?eof@?$_Narrow_char_traits@DH@std@@SAHXZ All-in-one-Benchmark.cpp (795,0)
+   -> ?eq_int_type@?$_Narrow_char_traits@DH@std@@SA_NHH@Z All-in-one-Benchmark.cpp (795,0)
+   -> EXTERN: ?width@ios_base@std@@QEAA_J_J@Z All-in-one-Benchmark.cpp (802,0)
+   -> EXTERN: ?setstate@?$basic_ios@DU?$char_traits@D@std@@@std@@QEAAXH_N@Z All-in-one-Benchmark.cpp (806,0)
+   -> ??1sentry@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAA@XZ All-in-one-Benchmark.cpp (808,0)
+   -> ??1sentry@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAA@XZ All-in-one-Benchmark.cpp (808,0)
+
+COMPILE FUNC: ??1ScalarADD@@UEAA@XZ
+   -> ??1Benchmark@@UEAA@XZ All-in-one-Benchmark.cpp (8,0)
+
+COMPILE FUNC: ??0Benchmark@@QEAA@XZ
+
+COMPILE FUNC: ?length@?$_Narrow_char_traits@DH@std@@SA_KQEBD@Z
+   -> EXTERN: strlen All-in-one-Benchmark.cpp (398,0)
+
+COMPILE FUNC: ??0sentry@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAA@AEAV12@@Z
+   -> ??0_Sentry_base@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAA@AEAV12@@Z All-in-one-Benchmark.cpp (96,0)
+   -> EXTERN: ?good@ios_base@std@@QEBA_NXZ All-in-one-Benchmark.cpp (97,0)
+   -> EXTERN: ?tie@?$basic_ios@DU?$char_traits@D@std@@@std@@QEBAPEAV?$basic_ostream@DU?$char_traits@D@std@@@2@XZ All-in-one-Benchmark.cpp (102,0)
+   -> EXTERN: ?flush@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV12@XZ All-in-one-Benchmark.cpp (108,0)
+   -> EXTERN: ?good@ios_base@std@@QEBA_NXZ All-in-one-Benchmark.cpp (109,0)
+   -> ??1_Sentry_base@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAA@XZ All-in-one-Benchmark.cpp (110,0)
+
+COMPILE FUNC: ??Bsentry@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEBA_NXZ
+
+COMPILE FUNC: ?eof@?$_Narrow_char_traits@DH@std@@SAHXZ
+
+COMPILE FUNC: ?eq_int_type@?$_Narrow_char_traits@DH@std@@SA_NHH@Z
+
+COMPILE FUNC: ??1sentry@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAA@XZ
+   -> EXTERN: ?uncaught_exception@std@@YA_NXZ All-in-one-Benchmark.cpp (117,0)
+   -> EXTERN: ?_Osfx@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAXXZ All-in-one-Benchmark.cpp (123,0)
+   -> ??1_Sentry_base@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAA@XZ All-in-one-Benchmark.cpp (125,0)
+
+COMPILE FUNC: ??1Benchmark@@UEAA@XZ
+
+COMPILE FUNC: ?name@ScalarADD@@UEBA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ
+   -> ??0?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QEAA@QEBD@Z All-in-one-Benchmark.cpp (11,0)
+
+COMPILE FUNC: ??0?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QEAA@QEBD@Z
+   -> ??$?0$$V@?$_Compressed_pair@V?$allocator@D@std@@V?$_String_val@U?$_Simple_types@D@std@@@2@$00@std@@QEAA@U_Zero_then_variadic_args_t@1@@Z All-in-one-Benchmark.cpp (2556,0)
+   -> ?length@?$_Narrow_char_traits@DH@std@@SA_KQEBD@Z All-in-one-Benchmark.cpp (2557,0)
+   -> ??$_Convert_size@_K_K@std@@YA_K_K@Z All-in-one-Benchmark.cpp (2557,0)
+   -> ??$_Construct@$00PEBD@?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEAAXQEBD_K@Z All-in-one-Benchmark.cpp (2557,0)
+   -> ??1?$_Compressed_pair@V?$allocator@D@std@@V?$_String_val@U?$_Simple_types@D@std@@@2@$00@std@@QEAA@XZ All-in-one-Benchmark.cpp (2558,0)
+
+COMPILE FUNC: ??_GScalarADD@@UEAAPEAXI@Z
+   -> ??1ScalarADD@@UEAA@XZ All-in-one-Benchmark.cpp (8,0)
+   -> EXTERN: ??3@YAXPEAX@Z All-in-one-Benchmark.cpp (8,0)
+
+COMPILE FUNC: ??_GBenchmark@@UEAAPEAXI@Z
+   -> llvm.trap All-in-one-Benchmark.cpp (14,0)
+
+COMPILE FUNC: ??$?0$$V@?$_Compressed_pair@V?$allocator@D@std@@V?$_String_val@U?$_Simple_types@D@std@@@2@$00@std@@QEAA@U_Zero_then_variadic_args_t@1@@Z
+   -> ??0?$allocator@D@std@@QEAA@XZ All-in-one-Benchmark.cpp (1523,0)
+   -> ??0?$_String_val@U?$_Simple_types@D@std@@@std@@QEAA@XZ All-in-one-Benchmark.cpp (1523,0)
+
+COMPILE FUNC: ??$_Convert_size@_K_K@std@@YA_K_K@Z
+
+COMPILE FUNC: ??$_Construct@$00PEBD@?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEAAXQEBD_K@Z
+   -> ?max_size@?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QEBA_KXZ All-in-one-Benchmark.cpp (2669,0)
+   -> ?_Xlen_string@std@@YAXXZ All-in-one-Benchmark.cpp (2670,0)
+   -> ?_Getal@?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEAAAEAV?$allocator@D@2@XZ All-in-one-Benchmark.cpp (2673,0)
+   -> ??$?0D@?$allocator@U_Container_proxy@std@@@std@@QEAA@AEBV?$allocator@D@1@@Z All-in-one-Benchmark.cpp (2674,0)
+   -> ??0?$_Container_proxy_ptr12@V?$allocator@U_Container_proxy@std@@@std@@@std@@QEAA@AEAV?$allocator@U_Container_proxy@std@@@1@AEAU_Container_base12@1@@Z All-in-one-Benchmark.cpp (2675,0)
+   -> ?copy@?$_Char_traits@DH@std@@SAPEADQEADQEBD_K@Z All-in-one-Benchmark.cpp (2685,0)
+   -> ?assign@?$_Narrow_char_traits@DH@std@@SAXAEADAEBD@Z All-in-one-Benchmark.cpp (2686,0)
+   -> ?_Release@_Basic_container_proxy_ptr12@std@@QEAAXXZ All-in-one-Benchmark.cpp (2695,0)
+   -> ?max_size@?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QEBA_KXZ All-in-one-Benchmark.cpp (2699,0)
+   -> ?_Calculate_growth@?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@CA_K_K00@Z All-in-one-Benchmark.cpp (2699,0)
+   -> ??$_Allocate_for_capacity@$0A@@?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@CAPEADAEAV?$allocator@D@1@AEA_K@Z All-in-one-Benchmark.cpp (2700,0)
+   -> ??$_Construct_in_place@PEADAEBQEAD@std@@YAXAEAPEADAEBQEAD@Z All-in-one-Benchmark.cpp (2701,0)
+   -> ??$_Unfancy@D@std@@YAPEADPEAD@Z All-in-one-Benchmark.cpp (2709,0)
+   -> ?copy@?$_Char_traits@DH@std@@SAPEADQEADQEBD_K@Z All-in-one-Benchmark.cpp (2709,0)
+   -> ??$_Unfancy@D@std@@YAPEADPEAD@Z All-in-one-Benchmark.cpp (2710,0)
+   -> ?assign@?$_Narrow_char_traits@DH@std@@SAXAEADAEBD@Z All-in-one-Benchmark.cpp (2710,0)
+   -> ?_Release@_Basic_container_proxy_ptr12@std@@QEAAXXZ All-in-one-Benchmark.cpp (2716,0)
+   -> ??1?$_Container_proxy_ptr12@V?$allocator@U_Container_proxy@std@@@std@@@std@@QEAA@XZ All-in-one-Benchmark.cpp (2717,0)
+   -> ??1?$_Container_proxy_ptr12@V?$allocator@U_Container_proxy@std@@@std@@@std@@QEAA@XZ All-in-one-Benchmark.cpp (2717,0)
+
+COMPILE FUNC: ??1?$_Compressed_pair@V?$allocator@D@std@@V?$_String_val@U?$_Simple_types@D@std@@@2@$00@std@@QEAA@XZ
+   -> ??1?$_String_val@U?$_Simple_types@D@std@@@std@@QEAA@XZ All-in-one-Benchmark.cpp (1514,0)
+
+COMPILE FUNC: ??0?$allocator@D@std@@QEAA@XZ
+
+COMPILE FUNC: ??0?$_String_val@U?$_Simple_types@D@std@@@std@@QEAA@XZ
+   -> ??0_Container_base12@std@@QEAA@XZ All-in-one-Benchmark.cpp (2212,0)
+   -> ??0_Bxty@?$_String_val@U?$_Simple_types@D@std@@@std@@QEAA@XZ All-in-one-Benchmark.cpp (2212,0)
+
+COMPILE FUNC: ?max_size@?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QEBA_KXZ
+   -> ?_Getal@?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBAAEBV?$allocator@D@2@XZ All-in-one-Benchmark.cpp (4166,0)
+   -> ?max_size@?$_Default_allocator_traits@V?$allocator@D@std@@@std@@SA_KAEBV?$allocator@D@2@@Z All-in-one-Benchmark.cpp (4166,0)
+   -> ??$max@_K@std@@YAAEB_KAEB_K0@Z All-in-one-Benchmark.cpp (4167,0)
+   -> ?max@?$numeric_limits@_J@std@@SA_JXZ All-in-one-Benchmark.cpp (4169,0)
+   -> ??$min@_K@std@@YAAEB_KAEB_K0@Z All-in-one-Benchmark.cpp (4169,0)
+
+COMPILE FUNC: ?_Xlen_string@std@@YAXXZ
+   -> EXTERN: ?_Xlength_error@std@@YAXPEBD@Z All-in-one-Benchmark.cpp (2327,0)
+
+COMPILE FUNC: ?_Getal@?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEAAAEAV?$allocator@D@2@XZ
+   -> ?_Get_first@?$_Compressed_pair@V?$allocator@D@std@@V?$_String_val@U?$_Simple_types@D@std@@@2@$00@std@@QEAAAEAV?$allocator@D@2@XZ All-in-one-Benchmark.cpp (4890,0)
+
+COMPILE FUNC: ??$?0D@?$allocator@U_Container_proxy@std@@@std@@QEAA@AEBV?$allocator@D@1@@Z
+
+COMPILE FUNC: ??0?$_Container_proxy_ptr12@V?$allocator@U_Container_proxy@std@@@std@@@std@@QEAA@AEAV?$allocator@U_Container_proxy@std@@@1@AEAU_Container_base12@1@@Z
+   -> ??0_Basic_container_proxy_ptr12@std@@IEAA@XZ All-in-one-Benchmark.cpp (1473,0)
+   -> ?allocate@?$allocator@U_Container_proxy@std@@@std@@QEAAPEAU_Container_proxy@2@_K@Z All-in-one-Benchmark.cpp (1475,0)
+   -> ??$_Unfancy@U_Container_proxy@std@@@std@@YAPEAU_Container_proxy@0@PEAU10@@Z All-in-one-Benchmark.cpp (1475,0)
+   -> ??$_Construct_in_place@U_Container_proxy@std@@PEAU_Container_base12@2@@std@@YAXAEAU_Container_proxy@0@$$QEAPEAU_Container_base12@0@@Z All-in-one-Benchmark.cpp (1476,0)
+
+COMPILE FUNC: ?copy@?$_Char_traits@DH@std@@SAPEADQEADQEBD_K@Z
+   -> llvm.memcpy.p0.p0.i64 All-in-one-Benchmark.cpp (51,0)
+
+COMPILE FUNC: ?assign@?$_Narrow_char_traits@DH@std@@SAXAEADAEBD@Z
+
+COMPILE FUNC: ?_Release@_Basic_container_proxy_ptr12@std@@QEAAXXZ
+
+COMPILE FUNC: ?_Calculate_growth@?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@CA_K_K00@Z
+   -> ??$max@_K@std@@YAAEB_KAEB_K0@Z All-in-one-Benchmark.cpp (4770,0)
+
+COMPILE FUNC: ??$_Allocate_for_capacity@$0A@@?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@CAPEADAEAV?$allocator@D@1@AEA_K@Z
+   -> ??$_Allocate_at_least_helper@V?$allocator@D@std@@@std@@YAPEADAEAV?$allocator@D@0@AEA_K@Z All-in-one-Benchmark.cpp (2617,0)
+
+COMPILE FUNC: ??$_Construct_in_place@PEADAEBQEAD@std@@YAXAEAPEADAEBQEAD@Z
+
+COMPILE FUNC: ??$_Unfancy@D@std@@YAPEADPEAD@Z
+
+COMPILE FUNC: ??1?$_Container_proxy_ptr12@V?$allocator@U_Container_proxy@std@@@std@@@std@@QEAA@XZ
+   -> ??$_Delete_plain_internal@V?$allocator@U_Container_proxy@std@@@std@@@std@@YAXAEAV?$allocator@U_Container_proxy@std@@@0@QEAU_Container_proxy@0@@Z All-in-one-Benchmark.cpp (1489,0)
+
+COMPILE FUNC: ??1?$_String_val@U?$_Simple_types@D@std@@@std@@QEAA@XZ
+   -> ??1_Bxty@?$_String_val@U?$_Simple_types@D@std@@@std@@QEAA@XZ All-in-one-Benchmark.cpp (2202,0)
+
+COMPILE FUNC: ??0_Container_base12@std@@QEAA@XZ
+
+COMPILE FUNC: ??0_Bxty@?$_String_val@U?$_Simple_types@D@std@@@std@@QEAA@XZ
+   -> llvm.memset.p0.i64 All-in-one-Benchmark.cpp (2284,0)
+
+COMPILE FUNC: ?_Getal@?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBAAEBV?$allocator@D@2@XZ
+   -> ?_Get_first@?$_Compressed_pair@V?$allocator@D@std@@V?$_String_val@U?$_Simple_types@D@std@@@2@$00@std@@QEBAAEBV?$allocator@D@2@XZ All-in-one-Benchmark.cpp (4894,0)
+
+COMPILE FUNC: ?max_size@?$_Default_allocator_traits@V?$allocator@D@std@@@std@@SA_KAEBV?$allocator@D@2@@Z
+
+COMPILE FUNC: ??$max@_K@std@@YAAEB_KAEB_K0@Z
+
+COMPILE FUNC: ?max@?$numeric_limits@_J@std@@SA_JXZ
+
+COMPILE FUNC: ??$min@_K@std@@YAAEB_KAEB_K0@Z
+
+COMPILE FUNC: ?_Get_first@?$_Compressed_pair@V?$allocator@D@std@@V?$_String_val@U?$_Simple_types@D@std@@@2@$00@std@@QEAAAEAV?$allocator@D@2@XZ
+
+COMPILE FUNC: ??0_Basic_container_proxy_ptr12@std@@IEAA@XZ
+
+COMPILE FUNC: ?allocate@?$allocator@U_Container_proxy@std@@@std@@QEAAPEAU_Container_proxy@2@_K@Z
+   -> ??$_Get_size_of_n@$0BA@@std@@YA_K_K@Z All-in-one-Benchmark.cpp (982,0)
+   -> ??$_Allocate@$0BA@U_Default_allocate_traits@std@@$0A@@std@@YAPEAX_K@Z All-in-one-Benchmark.cpp (982,0)
+
+COMPILE FUNC: ??$_Unfancy@U_Container_proxy@std@@@std@@YAPEAU_Container_proxy@0@PEAU10@@Z
+
+COMPILE FUNC: ??$_Construct_in_place@U_Container_proxy@std@@PEAU_Container_base12@2@@std@@YAXAEAU_Container_proxy@0@$$QEAPEAU_Container_base12@0@@Z
+   -> ??0_Container_proxy@std@@QEAA@PEAU_Container_base12@1@@Z All-in-one-Benchmark.cpp (255,0)
+
+COMPILE FUNC: ??$_Allocate_at_least_helper@V?$allocator@D@std@@@std@@YAPEADAEAV?$allocator@D@0@AEA_K@Z
+   -> ?allocate@?$allocator@D@std@@QEAAPEAD_K@Z All-in-one-Benchmark.cpp (2211,0)
+
+COMPILE FUNC: ??$_Delete_plain_internal@V?$allocator@U_Container_proxy@std@@@std@@@std@@YAXAEAV?$allocator@U_Container_proxy@std@@@0@QEAU_Container_proxy@0@@Z
+   -> ??$_Deallocate_plain@V?$allocator@U_Container_proxy@std@@@std@@@std@@YAXAEAV?$allocator@U_Container_proxy@std@@@0@QEAU_Container_proxy@0@@Z All-in-one-Benchmark.cpp (1143,0)
+
+COMPILE FUNC: ?_Get_first@?$_Compressed_pair@V?$allocator@D@std@@V?$_String_val@U?$_Simple_types@D@std@@@2@$00@std@@QEBAAEBV?$allocator@D@2@XZ
+
+COMPILE FUNC: ??$_Get_size_of_n@$0BA@@std@@YA_K_K@Z
+   -> ?_Throw_bad_array_new_length@std@@YAXXZ All-in-one-Benchmark.cpp (74,0)
+
+COMPILE FUNC: ??$_Allocate@$0BA@U_Default_allocate_traits@std@@$0A@@std@@YAPEAX_K@Z
+   -> ??$_Allocate_manually_vector_aligned@U_Default_allocate_traits@std@@@std@@YAPEAX_K@Z All-in-one-Benchmark.cpp (242,0)
+   -> ?_Allocate@_Default_allocate_traits@std@@SAPEAX_K@Z All-in-one-Benchmark.cpp (248,0)
+
+COMPILE FUNC: ??0_Container_proxy@std@@QEAA@PEAU_Container_base12@1@@Z
+
+COMPILE FUNC: ??$_Allocate_manually_vector_aligned@U_Default_allocate_traits@std@@@std@@YAPEAX_K@Z
+   -> ?_Throw_bad_array_new_length@std@@YAXXZ All-in-one-Benchmark.cpp (144,0)
+   -> ?_Allocate@_Default_allocate_traits@std@@SAPEAX_K@Z All-in-one-Benchmark.cpp (147,0)
+   -> EXTERN: _CrtDbgReport All-in-one-Benchmark.cpp (148,0)
+   -> llvm.debugtrap All-in-one-Benchmark.cpp (148,0)
+   -> EXTERN: _invalid_parameter All-in-one-Benchmark.cpp (148,0)
+
+COMPILE FUNC: ?_Allocate@_Default_allocate_traits@std@@SAPEAX_K@Z
+   -> EXTERN: ??2@YAPEAX_K@Z All-in-one-Benchmark.cpp (90,0)
+
+COMPILE FUNC: ?_Throw_bad_array_new_length@std@@YAXXZ
+   -> ??0bad_array_new_length@std@@QEAA@XZ All-in-one-Benchmark.cpp (64,0)
+   -> EXTERN: _CxxThrowException All-in-one-Benchmark.cpp (64,0)
+
+COMPILE FUNC: ??0bad_array_new_length@std@@QEAA@XZ
+   -> ??0bad_alloc@std@@AEAA@QEBD@Z All-in-one-Benchmark.cpp (141,0)
+
+COMPILE FUNC: ??0bad_alloc@std@@AEAA@QEBD@Z
+   -> ??0exception@std@@QEAA@QEBDH@Z All-in-one-Benchmark.cpp (130,0)
+
+COMPILE FUNC: ??0bad_array_new_length@std@@QEAA@AEBV01@@Z
+   -> ??0bad_alloc@std@@QEAA@AEBV01@@Z All-in-one-Benchmark.cpp (134,0)
+
+COMPILE FUNC: ??0bad_alloc@std@@QEAA@AEBV01@@Z
+   -> ??0exception@std@@QEAA@AEBV01@@Z All-in-one-Benchmark.cpp (114,0)
+
+COMPILE FUNC: ??0exception@std@@QEAA@AEBV01@@Z
+   -> llvm.memset.p0.i64 All-in-one-Benchmark.cpp (72,0)
+   -> EXTERN: __std_exception_copy All-in-one-Benchmark.cpp (73,0)
+
+COMPILE FUNC: ??1bad_array_new_length@std@@UEAA@XZ
+   -> ??1bad_alloc@std@@UEAA@XZ All-in-one-Benchmark.cpp (134,0)
+
+COMPILE FUNC: ??1bad_alloc@std@@UEAA@XZ
+   -> ??1exception@std@@UEAA@XZ All-in-one-Benchmark.cpp (114,0)
+
+COMPILE FUNC: ??0exception@std@@QEAA@QEBDH@Z
+   -> llvm.memset.p0.i64 All-in-one-Benchmark.cpp (66,0)
+
+COMPILE FUNC: ??_Gbad_array_new_length@std@@UEAAPEAXI@Z
+   -> ??1bad_array_new_length@std@@UEAA@XZ All-in-one-Benchmark.cpp (134,0)
+   -> EXTERN: ??3@YAXPEAX@Z All-in-one-Benchmark.cpp (134,0)
+
+COMPILE FUNC: ?what@exception@std@@UEBAPEBDXZ
+
+COMPILE FUNC: ??_Gbad_alloc@std@@UEAAPEAXI@Z
+   -> ??1bad_alloc@std@@UEAA@XZ All-in-one-Benchmark.cpp (114,0)
+   -> EXTERN: ??3@YAXPEAX@Z All-in-one-Benchmark.cpp (114,0)
+
+COMPILE FUNC: ??_Gexception@std@@UEAAPEAXI@Z
+   -> ??1exception@std@@UEAA@XZ All-in-one-Benchmark.cpp (89,0)
+   -> EXTERN: ??3@YAXPEAX@Z All-in-one-Benchmark.cpp (89,0)
+
+COMPILE FUNC: ??1exception@std@@UEAA@XZ
+   -> EXTERN: __std_exception_destroy All-in-one-Benchmark.cpp (90,0)
+
+COMPILE FUNC: ?allocate@?$allocator@D@std@@QEAAPEAD_K@Z
+   -> ??$_Get_size_of_n@$00@std@@YA_K_K@Z All-in-one-Benchmark.cpp (982,0)
+   -> ??$_Allocate@$0BA@U_Default_allocate_traits@std@@$0A@@std@@YAPEAX_K@Z All-in-one-Benchmark.cpp (982,0)
+
+COMPILE FUNC: ??$_Get_size_of_n@$00@std@@YA_K_K@Z
+
+COMPILE FUNC: ??$_Deallocate_plain@V?$allocator@U_Container_proxy@std@@@std@@@std@@YAXAEAV?$allocator@U_Container_proxy@std@@@0@QEAU_Container_proxy@0@@Z
+   -> ?deallocate@?$_Default_allocator_traits@V?$allocator@U_Container_proxy@std@@@std@@@std@@SAXAEAV?$allocator@U_Container_proxy@std@@@2@QEAU_Container_proxy@2@_K@Z All-in-one-Benchmark.cpp (1131,0)
+   -> EXTERN: __std_terminate All-in-one-Benchmark.cpp (1131,0)
+
+COMPILE FUNC: ?deallocate@?$_Default_allocator_traits@V?$allocator@U_Container_proxy@std@@@std@@@std@@SAXAEAV?$allocator@U_Container_proxy@std@@@2@QEAU_Container_proxy@2@_K@Z
+   -> ??$_Deallocate@$0BA@$0A@@std@@YAXPEAX_K@Z All-in-one-Benchmark.cpp (718,0)
+
+COMPILE FUNC: ??$_Deallocate@$0BA@$0A@@std@@YAXPEAX_K@Z
+   -> ?_Adjust_manually_vector_aligned@std@@YAXAEAPEAXAEA_K@Z All-in-one-Benchmark.cpp (265,0)
+   -> EXTERN: ??3@YAXPEAX_K@Z All-in-one-Benchmark.cpp (268,0)
+   -> EXTERN: __std_terminate All-in-one-Benchmark.cpp (265,0)
+
+COMPILE FUNC: ?_Adjust_manually_vector_aligned@std@@YAXAEAPEAXAEA_K@Z
+   -> EXTERN: _CrtDbgReport All-in-one-Benchmark.cpp (167,0)
+   -> llvm.debugtrap All-in-one-Benchmark.cpp (167,0)
+   -> EXTERN: _invalid_parameter All-in-one-Benchmark.cpp (167,0)
+   -> EXTERN: _CrtDbgReport All-in-one-Benchmark.cpp (177,0)
+   -> llvm.debugtrap All-in-one-Benchmark.cpp (177,0)
+   -> EXTERN: _invalid_parameter All-in-one-Benchmark.cpp (177,0)
+
+COMPILE FUNC: ??1_Bxty@?$_String_val@U?$_Simple_types@D@std@@@std@@QEAA@XZ
+
+COMPILE FUNC: ?run@ScalarADD@@UEAAXXZ.omp_outlined_debug__
+   -> EXTERN: __kmpc_for_static_init_8u All-in-one-Benchmark.cpp (33,0)
+   -> EXTERN: __kmpc_for_static_fini All-in-one-Benchmark.cpp (32,0)
+
+COMPILE FUNC: ?run@ScalarADD@@UEAAXXZ.omp_outlined
+   -> ?run@ScalarADD@@UEAAXXZ.omp_outlined_debug__ All-in-one-Benchmark.cpp (32,0)
+
+COMPILE FUNC: ??$endl@DU?$char_traits@D@std@@@std@@YAAEAV?$basic_ostream@DU?$char_traits@D@std@@@0@AEAV10@@Z
+   -> EXTERN: ?widen@?$basic_ios@DU?$char_traits@D@std@@@std@@QEBADD@Z All-in-one-Benchmark.cpp (1011,0)
+   -> EXTERN: ?put@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV12@D@Z All-in-one-Benchmark.cpp (1011,0)
+   -> EXTERN: ?flush@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV12@XZ All-in-one-Benchmark.cpp (1012,0)
+
+COMPILE FUNC: ??0_Sentry_base@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAA@AEAV12@@Z
+   -> EXTERN: ?rdbuf@?$basic_ios@DU?$char_traits@D@std@@@std@@QEBAPEAV?$basic_streambuf@DU?$char_traits@D@std@@@2@XZ All-in-one-Benchmark.cpp (76,0)
+   -> INDIRECT: All-in-one-Benchmark.cpp (78,0)
+
+COMPILE FUNC: ??1_Sentry_base@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAA@XZ
+   -> EXTERN: ?rdbuf@?$basic_ios@DU?$char_traits@D@std@@@std@@QEBAPEAV?$basic_streambuf@DU?$char_traits@D@std@@@2@XZ All-in-one-Benchmark.cpp (83,0)
+   -> INDIRECT: All-in-one-Benchmark.cpp (85,0)
+   -> EXTERN: __std_terminate All-in-one-Benchmark.cpp (85,0)
+
+---- End Inlining Report ------
