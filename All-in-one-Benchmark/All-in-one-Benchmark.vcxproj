@@ -129,6 +129,9 @@
   <ItemGroup>
     <ClCompile Include="All-in-one-Benchmark.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Benchmark.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
