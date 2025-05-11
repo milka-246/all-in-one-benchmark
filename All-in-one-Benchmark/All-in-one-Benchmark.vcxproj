@@ -104,6 +104,8 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
+      <OptimizationDiagnosticLevel>Disable</OptimizationDiagnosticLevel>
+      <OpenMP>GenerateParallelCode</OpenMP>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -130,7 +132,10 @@
     <ClCompile Include="All-in-one-Benchmark.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="ADDIntrin.h" />
     <ClInclude Include="Benchmark.h" />
+    <ClInclude Include="FMAIntrin.h" />
+    <ClInclude Include="ScalarADD.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
