@@ -4,10 +4,12 @@
 #include "Benchmark.h"
 #include <chrono>
 #include <omp.h>
+#include<mkl.h>
 #ifndef VECTOR_MULT
 #define VECTOR_MULT
 
 class VectorMult:public Benchmark {
+public:
     std::string name() const override {
         return "Vectors Multiplication";
     }

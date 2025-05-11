@@ -3,14 +3,13 @@
 #include <iostream>
 #include "Benchmark.h"
 #include <chrono>
-#include <omp.h>
-#include "mkl.h"
 #include <mkl.h>
 #include <omp.h>
 #ifndef MATRIX_MULT
 #define MATRIX_MULT
 
 class MatrixMult :public Benchmark {
+public:
     std::string name() const override {
         return "Matrix Multiplication";
     }
