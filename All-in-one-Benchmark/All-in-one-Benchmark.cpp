@@ -7,16 +7,7 @@
 
 int main()
 {
-    //std::cout << "Hello World!\n";
-    //RungeKutt bench;
-    //std::cout << bench.name() << std::endl;
-    //bench.run();
-
-    JacobiBenchmark bench2;
-    std::cout << bench2.name() << std::endl;
-    bench2.run();
-
-    return 0;
+    std::cout << "Hello World!\n";
 }
 
 // Запуск программы: CTRL+F5 или меню "Отладка" > "Запуск без отладки"

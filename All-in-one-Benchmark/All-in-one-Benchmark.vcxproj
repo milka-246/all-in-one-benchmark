@@ -44,6 +44,7 @@
     <UseDebugLibraries>true</UseDebugLibraries>
     <PlatformToolset>Intel C++ Compiler 2025</PlatformToolset>
     <CharacterSet>Unicode</CharacterSet>
+    <UseInteloneMKL>No</UseInteloneMKL>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
     <ConfigurationType>Application</ConfigurationType>
@@ -104,6 +105,8 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
+      <OptimizationDiagnosticLevel>Disable</OptimizationDiagnosticLevel>
+      <OpenMP>None</OpenMP>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -133,9 +136,12 @@
     <ClCompile Include="Stencil.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="ADDIntrin.h" />
     <ClInclude Include="Benchmark.h" />
-    <ClInclude Include="Runge-Kutt.h" />
-    <ClInclude Include="Stencil.h" />
+    <ClInclude Include="FMAIntrin.h" />
+    <ClInclude Include="MatrixMult.h" />
+    <ClInclude Include="ScalarADD.h" />
+    <ClInclude Include="VectorMult.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
