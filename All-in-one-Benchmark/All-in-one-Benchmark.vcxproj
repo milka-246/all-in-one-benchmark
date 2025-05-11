@@ -140,7 +140,9 @@
     <ClInclude Include="Benchmark.h" />
     <ClInclude Include="FMAIntrin.h" />
     <ClInclude Include="MatrixMult.h" />
+    <ClInclude Include="Runge-Kutt.h" />
     <ClInclude Include="ScalarADD.h" />
+    <ClInclude Include="Stencil.h" />
     <ClInclude Include="VectorMult.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
