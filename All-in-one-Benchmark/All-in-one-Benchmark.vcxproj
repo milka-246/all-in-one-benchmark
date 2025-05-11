@@ -128,9 +128,11 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="All-in-one-Benchmark.cpp" />
+    <ClCompile Include="Transpose.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Benchmark.h" />
+    <ClInclude Include="Transpose.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
